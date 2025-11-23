@@ -22,7 +22,7 @@ Conforme mencionado acima, esse projeto visa contemplar a resolução de alguns 
 
 | Questão | Nome                                                                                                  | Dificuldade |
 | ------- | ----------------------------------------------------------------------------------------------------- | ----------- |
-|      | |  Difícil   |
+| 847     | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/description/)        | Difícil       |
 |   |      | Difícil  |
 |   |      |  Difícil    |
 
@@ -31,6 +31,8 @@ Conforme mencionado acima, esse projeto visa contemplar a resolução de alguns 
 
 ## Screenshots
 Segue abaixo Screenshots demonstrando que as soluções para os respectivos problemas foram aceitas em todos os testes de caso:
+
+*Questão 847 - Shortest Path Visiting All Nodes*
 
 ## Instalação
 
