@@ -24,7 +24,7 @@ Conforme mencionado acima, esse projeto visa contemplar a resolução de alguns 
 | ------- | ----------------------------------------------------------------------------------------------------- | ----------- |
 | 847     | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/description/)        | Difícil       |
 |  827  | [Making a Large Island](https://leetcode.com/problems/making-a-large-island/description/)     | Difícil  |
-|   |      |  Difícil    |
+| 329  |  [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/)    |  Difícil    |
 
 ### Link para o vídeo de apresentação
 
@@ -35,6 +35,8 @@ Segue abaixo Screenshots demonstrando que as soluções para os respectivos prob
 *Questão 847 - Shortest Path Visiting All Nodes*
 
 *Questão 827 - Making a Large Island*
+
+*Questão 329 - Longest Increasing Path in a Matrix*
 
 ## Instalação
 
