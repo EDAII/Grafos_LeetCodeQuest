@@ -32,11 +32,18 @@ Conforme mencionado acima, esse projeto visa contemplar a resolução de alguns 
 ## Screenshots
 Segue abaixo Screenshots demonstrando que as soluções para os respectivos problemas foram aceitas em todos os testes de caso:
 
-*Questão 847 - Shortest Path Visiting All Nodes*
+*Questão 329 - Longest Increasing Path in a Matrix*
+
+![Questão 329 - Longest Increasing Path in a Matrix](Grafos/Questao_329/LC329.png)
 
 *Questão 827 - Making a Large Island*
 
-*Questão 329 - Longest Increasing Path in a Matrix*
+![Questão 827 - Making a Large Island](Grafos/Questao_827/LC827.png)
+
+*Questão 847 - Shortest Path Visiting All Nodes*
+
+![Questão 847 - Making a Large Island](Grafos/Questao_847/LC847.png)
+
 
 ## Instalação
 
